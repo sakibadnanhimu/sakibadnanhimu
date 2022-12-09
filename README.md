@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakib</h1>
-<h3 align="center">I'm a fresh graduate in Computer Science. I'm currently looking for network engineering jobs to start my career in the industry. I'm very excited about the journey and hope to learn a lot as we advance. I have experience working in Block Chain, Computer Security, Web Development, System Analysis and Design, Artificial Intelligence and Database Design. I have built several projects using these technologies during my graduation period.</h3>
+<h3 align="center">I'm a fresh graduate in Computer Science. I'm currently looking for software engineering jobs to start my career in the industry. I'm very excited about the journey and hope to learn a lot as we advance. I have experience working in Block Chain, Computer Security, Web Development, System Analysis and Design, Artificial Intelligence and Database Design. I have built several projects using these technologies during my graduation period.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibadnanhimu&label=Profile%20views&color=0e75b6&style=flat" alt="sakibadnanhimu" /> </p>
 
