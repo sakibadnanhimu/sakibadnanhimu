@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sakib</h1>
-<h3 align="center">I'm a fresh graduate in Computer Science. I'm currently looking for software engineering jobs to start my career in the industry. I'm very excited about the journey and hope to learn a lot as we advance. I have experience working in Block Chain, Computer Security, Web Development, System Analysis and Design, Artificial Intelligence and Database Design. I have built several projects using these technologies during my graduation period.</h3>
+<h3 align="center">I have experience in IT for more than one year. Now I am working for a professional and well-known organization in Bangladesh named ADN Group as an internal IT trainee engineer. I was working at Oracle as a SQA.
+ 
+With extensive experience in IT infrastructure installation, configuration, and troubleshooting, I possess a comprehensive skill sets for managing and maintaining complex IT networks. 
+
+My expertise encompasses TCP/IP, DHCP, hardware, software, printers, CCTV, firewalls, Pfsense servers, IP phones, billing systems, and a wide range of network devices, including Cisco routers, switches, and MikroTik routers. Proficient in Windows, Linux and Red Hat Enterprise operating systems, including dual boot configurations, I am adept at handling diverse IT challenges.
+
+ If you seek a skilled IT engineer who can drive innovation, contribute to your organization's success, and tackle new challenges, I would love to connect and discuss how my expertise aligns with your goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibadnanhimu&label=Profile%20views&color=0e75b6&style=flat" alt="sakibadnanhimu" /> </p>
 
