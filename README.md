@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakib</h1>
-<h3 align="center">I have experience in IT for more than one year. Now I am working for a professional and well-known organization in Bangladesh named ADN Group as an internal IT trainee engineer. I was working at Oracle as a SQA.
+<h3 align="center">I have experience in IT for more than one year. Now I am working for a professional and well-known organization in Bangladesh named ADN Telecom as an internal IT trainee engineer. I was working at Oracle as a SQA.
  
 With extensive experience in IT infrastructure installation, configuration, and troubleshooting, I possess a comprehensive skill sets for managing and maintaining complex IT networks. 
 
